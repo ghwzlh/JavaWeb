@@ -4,6 +4,13 @@ import javax.swing.*;
 import java.awt.*;
 
 public class begin {
+    /**
+     * qwhrfuiowaesofuhyiouwayfhioieos
+     * awfiohuioawehfoiuhaioquweffaewsdf
+     * fvaweshfiuvhgeushguiofvgawedfvg
+     * sefiohqoefhaeqshf
+     * @param args
+     */
     public static void main(String[] args) {
         MyJFrame mj = new MyJFrame();
     }

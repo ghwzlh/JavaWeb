@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-base.iml" filepath="$PROJECT_DIR$/Java-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/jinjie/jinjie.iml" filepath="$PROJECT_DIR$/jinjie/jinjie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stone_game.iml" filepath="$PROJECT_DIR$/stone_game.iml" />
       <module fileurl="file://$PROJECT_DIR$/stone_game01/stone_game01.iml" filepath="$PROJECT_DIR$/stone_game01/stone_game01.iml" />
     </modules>
   </component>
